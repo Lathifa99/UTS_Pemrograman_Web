@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "gambar": "product-images/baju-1.png",
+    "nama": "Baju Muslim Haruka",
+    "harga": "105.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:089560459 </p> <p>Address:Jl. Ahmad Yani No.0 Surabaya </p>"
+  },
+  {
+    "id": 2,
+    "gambar": "product-images/baju-2.png",
+    "nama": "Baju Muslim Ranisha",
+    "harga": "220.000",
+    "ukuran": "L",
+    "contact": "<p> Email:bajuraya.com </p> <p> Phone:081234775 </p> <p>Address:Jl. Bubutan No.10 Surabaya </p>"
+  },
+  {
+    "id": 3,
+    "gambar": "product-images/baju-3.png",
+    "nama": "Baju Muslim Harisha",
+    "harga": "160.000",
+    "ukuran": "M",
+    "contact": "<p> Email:bajuharishaori.com </p> <p> Phone:085655986 </p> <p>Address:Jl. Mawar No.15 Surabaya </p>"
+  },
+  {
+    "id": 4,
+    "gambar": "product-images/baju-4.png",
+    "nama": "Baju Abaya kristal",
+    "harga": "180.000",
+    "ukuran": "L",
+    "contact": "<p> Email:abayakekinian.com </p> <p> Phone:081387193 </p> <p>Address:Jl. Tembakan No.90 Surabaya </p>"
+  },
+  {
+    "id": 5,
+    "gambar": "product-images/baju-5.png",
+    "nama": "Baju Muslim Naisya",
+    "harga": "115.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:officialnaisya.com </p> <p> Phone:087655459 </p> <p>Address:Jl. Simo Agung No.25 Surabaya </p>"
+  },
+  {
+    "id": 6,
+    "gambar": "product-images/baju-6.png",
+    "nama": "Baju Muslim Jeans",
+    "harga": "175.000",
+    "ukuran": "L",
+    "contact": "<p> Email:jeansstore.com </p> <p> Phone:087895409 </p> <p>Address:Jl. Sakura No.9 Surabaya </p>"
+  }
+]
